@@ -1,0 +1,22 @@
+SiteID,SiteName,Latitude,Longitude,Elevation
+CA48,Santa Cruz,36.81,-121.78,2.000
+MD08,Piney Reservoir,39.7053,-79.0122,769.
+MD98,Beltsville Second Instrument,39.028,-76.8171,46.
+MD99,Beltsville,39.028,-76.8171,46.
+MS12,Grand Bay NERR,30.4294,-88.4277,2.
+MS99,Grand Bay NERR Second Instrument,30.4294,-88.4277,2.
+NH06,Thompson Farm,43.11,-70.95,2.000
+NJ05,Brigantine,39.40,-74.37,2.000
+NJ30,New Brunswick,40.4728,-74.4226,21.
+NJ32,Chester,40.7876,-74.6763,852.
+NJ54,Elizabeth Lab,40.6414,-74.2084,11.
+NS01,Kejimkujik National Park,44.4328,-65.2056,155.
+NY06,Bronx,40.868,-73.8782,68.
+NY20,Huntington Wildlife,43.9731,-74.2231,500.
+NY43,Rochester,43.1463,-77.5481,136.
+NY95,Rochester_B,43.1463,-77.5481,136.
+OH02,Athens Super Site,39.3078,-82.1182,275.
+UT96,Antelope Island,41.0467,-112.0248,2.000
+UT97,Salt Lake City,40.7118,-111.9609,1297.
+VT99,Underhill,44.5283,-72.8684,399.
+WV99,Canaan Valley Institute,39.0636,-79.4222,988

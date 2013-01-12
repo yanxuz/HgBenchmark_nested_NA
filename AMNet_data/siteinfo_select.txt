@@ -1,0 +1,15 @@
+SiteID,SiteName,Latitude,Longitude,Elevation
+CA48,Santa Cruz,36.81,-121.78,2.000
+MD98,Beltsville Second Instrument,39.028,-76.8171,46.
+MS12,Grand Bay NERR,30.4294,-88.4277,2.
+MS99,Grand Bay NERR Second Instrument,30.4294,-88.4277,2.
+NH06,Thompson Farm,43.11,-70.95,2.000
+NJ05,Brigantine,39.40,-74.37,2.000
+NS01,Kejimkujik National Park,44.4328,-65.2056,155.
+NY06,Bronx,40.868,-73.8782,68.
+NY20,Huntington Wildlife,43.9731,-74.2231,500.
+NY43,Rochester,43.1463,-77.5481,136.
+NY95,Rochester_B,43.1463,-77.5481,136.
+UT96,Antelope Island,41.0467,-112.0248,2.000
+VT99,Underhill,44.5283,-72.8684,399.
+WV99,Canaan Valley Institute,39.0636,-79.4222,988
