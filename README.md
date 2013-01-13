@@ -15,6 +15,7 @@ The benchmarking scripts compare a "new" model run to a "reference"
 simulation. If no reference file is specified, the new run will be
 compared to the default file (included here) default.05x0666.NA.2009. 
 This file uses the model version documented in Zhang et al. 2012 which is based on v9-01-02c.
+Note: I have met some techniqal problem to upload the default.05x0666.NA.2009 file. Please directly contact Yanxu Zhang to get this file.
 
 To run the benchmarking procedures, enter the following at an IDL prompt:
    MERCURY_BENCHMARK_NESTED_NA, FILENAME=FILENAME, REFERENCE=REFERENCE, $
